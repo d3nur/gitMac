@@ -2,8 +2,17 @@
 echo "hai from git";
 echo "again";
 echo "be";
+<<<<<<< HEAD
+//access at 11 sept
+echo dfdfsdfs
+=======
 echo "vs code";
 //access at 11 sept
+<<<<<<< HEAD
 //fdsfsdfsdfsdfs
 fsdfsdfsdfdsfdsf
 and i did
+=======
+fdsfsddsff
+fdsfsdfsdf
+>>>>>>> 55e4d8cd34de1fbe94f306fb961dde7c15a81261
